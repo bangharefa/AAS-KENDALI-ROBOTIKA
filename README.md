@@ -80,7 +80,8 @@ Node navigasi menggunakan 5 state utama:
 ### 🛠️ 1) Build Workspace
 Buka terminal:
 
-cd ~/workspace
+*cd ~/workspace*
+
 colcon build
 
 
