@@ -42,13 +42,13 @@ workspace/
 │ │ │ └── launch_sim.launch.py
 │ │ │
 │ ├── worlds/
-│ │ └── obstacles.world <-- dunia Gazebo kamu
+│ │ └── obstacles.world
 │ │
 │ └── fsm_nav/
 │ ├── setup.py
 │ ├── package.xml
 │ └── fsm_nav/
-│ └── fsm_nav.py <-- program FSM kamu
+│ └── fsm_nav.py 
 │
 └── build/
 └── install/
@@ -84,3 +84,5 @@ Node navigasi menggunakan 5 state utama:
 | **DONE**   | Berhenti setelah semua waypoint selesai |
 
 
+## 🤖 🚀 Langkah Menjalankan Simulasi
+### 🛠️ 1) Build Workspace (pertama kali)
