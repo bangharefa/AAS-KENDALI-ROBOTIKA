@@ -63,17 +63,6 @@ File dunia simulasi ditempatkan di:
 workspace/src/articubot_one/worlds/obstacles.world
 
 
-Pastikan di **launch file** terdapat baris seperti:
-
-```python
-world_file = os.path.join(
-    get_package_share_directory('articubot_one'),
-    'worlds',
-    'obstacles.world'
-)
-
----
-
 # 🤖 Algoritma Navigasi (FSM)
 
 Node navigasi menggunakan 5 state utama:
